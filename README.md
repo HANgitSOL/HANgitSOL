@@ -7,4 +7,4 @@
 [![HANSOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=HANSOL&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I cannot say many things...🥲
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansol&layout=compact)](https://github.com/HANgitSOL/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansol&layout=compact)](https://github.com/HANgitSOL)

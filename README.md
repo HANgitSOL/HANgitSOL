@@ -3,6 +3,9 @@
 ### Hello🌟 It's HANSOL🐰
 
 #### My parents gave me a name 'Hansol'. But, if it is too difficult to remember, you can call me 'Jenya'😎
+* master student of cocnitive neuroscience🧠
+* interested in cognition, neuroscience, and cognitive psychology🔍
+* studying in SungKyunKwan University👩‍🎓
 
 [![HANSOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=HANSOL&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 

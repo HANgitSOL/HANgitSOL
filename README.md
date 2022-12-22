@@ -7,7 +7,7 @@
 * interested in cognition, neuroscience, and cognitive psychology🔍
 * studying in SungKyunKwan University👩‍🎓
 
-[![HANSOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=HANSOL&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HANgitSOL&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I cannot say many things...🥲
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansol&layout=compact)](https://github.com/HANgitSOL)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HANgitSOL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

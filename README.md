@@ -3,7 +3,7 @@
 ### Hello🌟 It's HANSOL🐰
 
 #### My parents gave me a name 'Hansol'. But, if it is too difficult to remember, you can call me 'Jenya'😎
-* master student of cocnitive neuroscience🧠
+* master student of cocnitive neuroscience 🧠
 * interested in _cognition_, _neuroscience_, and _cognitive psychology_ 🔍
 * studying in __SungKyunKwan University__ 👩‍🎓
 
